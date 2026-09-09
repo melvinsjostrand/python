@@ -7,4 +7,5 @@ while integer > 0:
 
 string_integers = ','.join(map(str, integers))
 
+print(len(integers))
 print(string_integers)

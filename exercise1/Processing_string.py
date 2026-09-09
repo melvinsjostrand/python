@@ -1,4 +1,4 @@
-text = str(input("Enter a string: "))
+text = (input("Enter a string: "))
 
 space_count = text.count(" ")
 

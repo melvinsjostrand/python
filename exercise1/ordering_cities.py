@@ -1,6 +1,6 @@
-city_one = str(input("Enter a city "))
-city_two = str(input("Enter a city "))
-city_three = str(input("Enter a city "))
+city_one = (input("Enter a city "))
+city_two = (input("Enter a city "))
+city_three = (input("Enter a city "))
 
 if city_one > city_two :
     city_one , city_two = city_two , city_one
